@@ -4,7 +4,7 @@ Po skopiowaniu projektu na nalezy wykonać trzy zadania:
 
 ## Zadanie 1
 
-W projekcie znajduje się 3 pliki: 
+Do projektu należy dodać 3 pliki: 
 - index.html
 - script.js
 - style.css
